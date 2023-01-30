@@ -1,6 +1,6 @@
 # Laravel-MySQL-Docker README
 
-This project contains the required files to run Laravel 9.x in Docker with PHP 8.2, debugging and persistent storage for MySQL 8. The below setup has been tested on **Windows 11** and Docker (running in WSL 2 mode - the default). Evertything will just work by following the **How to** section below, but for completeness sake additional instructions are provided that might form part of a normal developers workday.
+This project contains the required files to run Laravel 9.x in Docker with PHP 8.2, debugging and persistent storage for MySQL 8. The below setup has been tested on **Windows 11** and Docker (running in WSL 2 mode - the default). Everything will just work by following the **How to** section below, but for completeness sake additional instructions are provided that might form part of a normal developers workday.
 
 **Notes:** 
 1. Debugging sessions take about 3/4 seconds to connect, but once connected, stepping through the code is super fast.
