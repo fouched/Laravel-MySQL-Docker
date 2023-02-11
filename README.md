@@ -63,7 +63,7 @@ To remove persistent storage remove the lines in **docker-compose.yml**:
 
 ![MySQL](mysql1.png)
 
-Against commaon recommendation, the configuration allows remote connections from any host.
+Against common recommendation, the configuration allows remote connections from any host.
 
 This just makes development easier. Feel free to disable this by removing this line in docker-compose.yml:
 
